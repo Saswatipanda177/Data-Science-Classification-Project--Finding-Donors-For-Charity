@@ -1,1 +1,2 @@
 # Data-Science-Classification-Project--Finding-Donors-For-Charity
+This project aims to identify potential donors for a charity organization by classifying individuals who earn more than $50K annually. Leveraging machine learning techniques, including classification algorithms, we analyze a dataset containing demographic and financial attributes to predict individuals likely to contribute to the cause. By accurately identifying potential donors, the charity organization can optimize its fundraising efforts, ultimately increasing its outreach and impact.
